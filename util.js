@@ -1,0 +1,2 @@
+function formatDate(date, fmt) { 
+}
